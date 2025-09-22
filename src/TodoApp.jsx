@@ -6,7 +6,7 @@ function TodoApp(){
     const handleOnChange = (e) => {
         setVal({
             ...val,
-            tStatus:"Pending",
+            tStatus:"Pendingssss",
             [e.target.name]:e.target.value
         })
     }
